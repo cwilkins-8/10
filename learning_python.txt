@@ -1,0 +1,4 @@
+In Python I have learnt that there are data types.
+In Python you can assign variables.
+In Python you can make lists.
+In Python you can make dictionaries.
